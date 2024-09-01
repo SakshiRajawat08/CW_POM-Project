@@ -23,13 +23,13 @@ URL:  https://www.naaptol.com/
 ### Prerequisites
 1.Ensure Maven must be installed in your computer.If not,download it from  https://maven.apache.org/download.cgi 
 2.Install dependencies:
-``
+```
 mvn install
-``
+```
 3.Run the test:
-``
+```
 mvn test
-``
+```
 4.Install Java JDK
 5.An IDE such as Spring Tool or Eclipse or IntelliJ
 ## Download the Project
