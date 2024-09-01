@@ -1,1 +1,2 @@
-# CW_POM-Project
+# Page Object Model Selenium Automation
+This project is focused on automating the Apparel and Accessories section of the Naaptol website using selenium webdriver,leveraging the Page Object Model(POM) design pattern.The objective is to create a robust,maintainable, and scalable test automation framework that can efficiently handle the dynamic nature of web application.By utilizing the POM structure, the codebase is organized to separate the web elements and actions from the test scripts,promoting code reusability and reducing maintainable efforts.
