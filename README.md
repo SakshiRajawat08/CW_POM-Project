@@ -21,8 +21,8 @@ This project is focused on automating the Apparel and Accessories section of the
 URL:  https://www.naaptol.com/ 
 ## Installation
 ### Prerequisites
-1.Ensure Maven must be installed in your computer.If not,download it from  https://maven.apache.org/download.cgi 
-2.Install dependencies:
+* 1.Ensure Maven must be installed in your computer.If not,download it from  https://maven.apache.org/download.cgi 
+* 2.Install dependencies:
 ```
 mvn install
 ```
@@ -30,8 +30,8 @@ mvn install
 ```
 mvn test
 ```
-4.Install Java JDK
-5.An IDE such as Spring Tool or Eclipse or IntelliJ
+* 4.Install Java JDK
+* 5.An IDE such as Spring Tool or Eclipse or IntelliJ
 ## Download the Project
 ### Git clone
 ## Feedback
