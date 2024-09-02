@@ -33,6 +33,6 @@ mvn test
 * 4.Install Java JDK
 * 5.An IDE such as Spring Tool or Eclipse or IntelliJ
 ## Download the Project
-### Git clone
+### Git clone https://github.com/SakshiRajawat08/CW_POM-Project.git
 ## Feedback
 If you have any feedback,please reach out to me at rajawatsakshi400@gmail.com
