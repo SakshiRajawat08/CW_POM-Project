@@ -1,11 +1,4 @@
 
-[Uploading Naaptol[InternetShortcut]
-URL=https://static.wikia.nocookie.net/logopedia/images/e/eb/Naaptol_new_logo.jpeg/revision/latest?cb=20200102062310
-IDList=
-HotKey=0
-IconFile=C:\Users\singh\AppData\Local\Mozilla\Firefox\Profiles\d3sw6of9.default-release-1725101477846\shortcutCache\QtOc3OGQQfFAJTxl9x1ai+wS2joSRivjKXsAUSFvgSo=.ico
-IconIndex=0
- new logo.url…]()
 
 # Page Object Model Selenium Automation
 ## Introduction
